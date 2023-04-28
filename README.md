@@ -1,4 +1,4 @@
-# description of the server with which we interact with the database
+# Description of the server with which we interact with the database
 
 The parts of project
 - `app.py ` - server code
